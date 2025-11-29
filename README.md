@@ -1,7 +1,7 @@
 # Halo, Saya Muhamad Fikri Nur Bakhtiar!!
 
-Saya seorang Front-End Developer yang suka membuat proyek web modern, interaktif, dan bermanfaat.  
-Saya senang explore mengenai hal-hal baru baik dibidang teknologi ataupun lainnya.
+### Saya seorang Front-End Developer yang suka membuat proyek web modern, interaktif, dan bermanfaat.  
+### Saya senang explore mengenai hal-hal baru baik dibidang teknologi ataupun lainnya.
 ---
 
 ## 🔧 Skills & Tools
