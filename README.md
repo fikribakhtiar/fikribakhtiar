@@ -1,4 +1,4 @@
-# Welcome !!!
+# Halo, Saya Muhamad Fikri Nur Bakhtiar!!
 
 Saya seorang Front-End Developer yang suka membuat proyek web modern, interaktif, dan bermanfaat.  
 Saya senang belajar teknologi baru dan berkontribusi ke open-source.
@@ -20,4 +20,3 @@ Saya senang belajar teknologi baru dan berkontribusi ke open-source.
 ## 📊 GitHub Stats
 ![FikriBakhtiar's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikribakhtiar&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikribakhtiar&layout=compact&langs_count=8&theme=tokyonight)
-
